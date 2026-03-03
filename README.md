@@ -65,7 +65,7 @@ To grow as a professional Front-End Developer by contributing to impactful proje
 <p align="center">
   Open to internships, freelance work, and collaborative projects.
 </p>
-## Connect With 
+Connect With me
 
 - Email: frontend.spark@gamil.com
 
