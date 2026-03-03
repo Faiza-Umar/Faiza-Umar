@@ -67,6 +67,7 @@ To grow as a professional Front-End Developer by contributing to impactful proje
 </p>
 ## Connect With 
 - Email: frontend.spark@gamil.com
+
 - LinkedIn: https://www.linkedin.com/in/frontend-spark/
 <!--
 **Faiza-Umar/Faiza-Umar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
